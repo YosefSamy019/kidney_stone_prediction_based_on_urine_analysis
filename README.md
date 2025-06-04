@@ -104,6 +104,9 @@ Try the model in action via this notebook or app:
 ![recall_eval](assets/recall_eval.png)
 ![roc_auc_eval](assets/roc_auc_eval.png)
 ![decision_tree](assets/decision_tree.png)
+![run_3.png](assets/run_3.png)
+![run_2.png](assets/run_2.png)
+![run_1.png](assets/run_1.png)
 
 ## ⚠️ Disclaimer
 
