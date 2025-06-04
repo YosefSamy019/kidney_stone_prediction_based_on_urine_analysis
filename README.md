@@ -41,20 +41,6 @@ Try the model in action via this notebook or app:
 
 ---
 
-## 🧪 Project Structure
-
-```
-📦 kidney-stone-prediction/
-├── 📊 Kidney_Stone_Prediction.ipynb     # Main notebook
-├── 📁 data/
-│   └── kidney_stone_dataset.csv         # Raw dataset
-├── 📈 outputs/                           # Saved visualizations/models (optional)
-├── 📄 README.md                          # Project documentation
-└── 📄 requirements.txt                   # Python dependencies
-```
-
----
-
 ## 🛠️ Coding Workflow
 
 ### 1. Data Preprocessing
