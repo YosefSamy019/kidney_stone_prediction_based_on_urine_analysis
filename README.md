@@ -20,7 +20,7 @@ Try the model in action via this notebook or app:
 
 ## 📁 Dataset
 
-- **Source**: [Kaggle – Kidney Stone Prediction based on Urine Analysis](https://www.kaggle.com/datasets/...)
+- **Source**: [Kaggle – Kidney Stone Prediction based on Urine Analysis](https://www.kaggle.com/datasets/vuppalaadithyasairam/kidney-stone-prediction-based-on-urine-analysis/data)
 - **Type**: Structured tabular data  
 - **Target**: Binary classification (`0` - No stone, `1` - Stone)
 
@@ -62,7 +62,7 @@ Try the model in action via this notebook or app:
 ### 3. Feature Selection & Scaling
 
 * Drop irrelevant or low-variance features
-* Apply `StandardScaler` or `MinMaxScaler`
+* Apply `MinMaxScaler`
 
 ### 4. Model Training
 
@@ -79,24 +79,6 @@ Try the model in action via this notebook or app:
 ### 6. Interpretation
 
 * Visualize tree-based models
-* Feature importance for ensemble methods
-
----
-
-## 📊 Sample Output
-
-* Model accuracy: 91.3% (Random Forest)
-* Best Recall Score: 92% (Gradient Boosting)
-* ROC AUC: 0.94
-* Feature importance shows `Gravity`, `pH`, and `Calcium` as top predictors
-
----
-
-## 🙋‍♂️ Author
-
-* **Name**: Youssef
-* **Background**: Machine Learning Engineer | AI & Communication Engineering Student
-* **GitHub**: [github.com/yourusername](https://github.com/YosefSamy019)
 
 ---
 
