@@ -41,25 +41,6 @@ Try the model in action via this notebook or app:
 
 ---
 
-## 🚀 How to Run
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/kidney-stone-prediction.git
-   cd kidney-stone-prediction
-    ````
-
-2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the notebook**
-   Open `Kidney_Stone_Prediction.ipynb` in Jupyter Notebook or VS Code and execute step-by-step.
-
----
-
 ## 🧪 Project Structure
 
 ```
