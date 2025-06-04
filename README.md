@@ -67,14 +67,11 @@ Try the model in action via this notebook or app:
 ### 4. Model Training
 
 * Split dataset into train/test sets (e.g., 80/20)
-* Train and evaluate models using cross-validation
-* Tune hyperparameters manually or with GridSearchCV (optional)
 
 ### 5. Evaluation
 
 * Use confusion matrix and classification reports
 * Compare performance across models
-* Plot decision boundaries (for 2D visualization)
 
 ### 6. Interpretation
 
