@@ -5,6 +5,12 @@ This project is a machine learning pipeline that predicts the likelihood of kidn
 
 ---
 
+## ⚠️ Disclaimer
+
+> This model is intended **only for educational purposes**. It should not be used for real-world medical decisions. Please consult certified healthcare professionals for any health-related assessments.
+
+---
+
 ## 🔗 Live Demo
 
 Try the model in action via this notebook or app:
@@ -108,6 +114,3 @@ Try the model in action via this notebook or app:
 ![run_2.png](assets/run_2.png)
 ![run_3.png](assets/run_3.png)
 
-## ⚠️ Disclaimer
-
-> This model is intended **only for educational purposes**. It should not be used for real-world medical decisions. Please consult certified healthcare professionals for any health-related assessments.
